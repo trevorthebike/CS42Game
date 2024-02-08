@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "bat.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 960
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bat-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 192
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 192
+					}
+				},
+				{
+					"filename": "bat-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 192
+					},
+					"frame": {
+						"x": 0,
+						"y": 192,
+						"w": 128,
+						"h": 192
+					}
+				},
+				{
+					"filename": "bat-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 192
+					},
+					"frame": {
+						"x": 0,
+						"y": 384,
+						"w": 128,
+						"h": 192
+					}
+				},
+				{
+					"filename": "bat-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 192
+					},
+					"frame": {
+						"x": 0,
+						"y": 576,
+						"w": 128,
+						"h": 192
+					}
+				},
+				{
+					"filename": "bat-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 192
+					},
+					"frame": {
+						"x": 0,
+						"y": 768,
+						"w": 128,
+						"h": 192
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6c2a2f6f63022053cee0c467c26d505a:0c8c528870232b9999e3daf82ea5e558:7701fa4d77073f039a4bfcba279ca81e$"
+	}
+}
